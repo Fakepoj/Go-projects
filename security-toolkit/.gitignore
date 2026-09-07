@@ -1,0 +1,11 @@
+# Binaries
+security-tool
+*.exe
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Coverage
+coverage.out
