@@ -1,0 +1,5 @@
+*.exe
+coverage.out
+.vscode/
+.idea/
+.DS_Store
